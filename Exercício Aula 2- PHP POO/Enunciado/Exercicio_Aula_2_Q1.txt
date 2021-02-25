@@ -1,0 +1,21 @@
+ Exercício 1
+
+1.Implemente uma classe Pessoa
+2.Declare os seguintes atributos na classe:
+1. Nome
+2. CPF
+3. RG
+4. Data de Nascimento
+5. Rua
+6. Bairro
+7. Cidade
+8. Estado
+9. Cep
+10.Complemento
+3. Os atributos nome, cpf e rg são obrigatórios (crie um construtor com esses
+parâmetros)
+4. Use set e get
+• Altere a classe Pessoa para que o atributo Endereço vire uma classe;
+• O endereço do proprietário não pode ser vazio (altere no construtor para receber o
+endereço);
+• Instancie um objeto da classe Carro, Pessoa, Endereço, 
